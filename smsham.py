@@ -1,6 +1,6 @@
 import os, sys, time, requests, random
 _name = ""
-_phone9 = ""
+_phone9 = "79146922572"
 sms = [
 """
 [sms]🡆        [phone]
